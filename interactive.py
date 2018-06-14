@@ -5,3 +5,5 @@ print("The content of ''c'': \n {} \n".format( c.eval() ))
 sess.close()
 
 print("hello")
+print("hi")
+print("nice day")
