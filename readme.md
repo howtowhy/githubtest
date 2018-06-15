@@ -25,6 +25,6 @@
 this is coding block test : `code block.` end of block
 
 hello this is not coding block
-    this is coding block with 4 space bar
-    this is also coding block with tab.
+`this is coding block 1
+this is also coding block 2`
 now, coding block is end
