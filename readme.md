@@ -31,5 +31,6 @@ this is coding block test : `code block.` end of block
 
  now, coding block is end
 
-
+ image
  ![kakaotalk_20180615_184042844](https://user-images.githubusercontent.com/10994112/41478062-55f418e6-7101-11e8-889c-ff9299976238.jpg)
+<img width="300" height="300"></img>
