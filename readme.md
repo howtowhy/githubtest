@@ -68,6 +68,5 @@ Link: [Google][googlelink]
 
 <https://google.com>
 
-https://google.com
 
 * * *
