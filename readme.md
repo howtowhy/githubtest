@@ -1,7 +1,5 @@
 
- 깃 테스트 :0 !
-
-## markdown
+ 깃 테스트 :0 ! & markdown
 
 ## 1. Header
 
@@ -9,6 +7,7 @@
   ======
   제목2
   ------
+
 
 ## 2. Title
 
@@ -19,17 +18,20 @@
 ##### This is a H5
 ###### This is a H6
 
+
 ## 3. Block
 
 > block 1
 >> block 2
 >>> block 3
 
+
 ## 4. Head mark
 
 * 하이
     * 헬로
         * 방가
+
 
 ## 5. Coding block
 
@@ -41,6 +43,7 @@ this is coding block test : `code block.` end of block
     this is also coding block 2
 
  now, coding block is end
+
 
  ## 6. Image
 
