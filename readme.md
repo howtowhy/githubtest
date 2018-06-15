@@ -24,7 +24,4 @@
 
 this is coding block test : `code block.` end of block
 
-hello this is not coding block
-    this is coding block with 4 space bar
-    this is also coding block with tab
-now, coding block is end
+hello this is not coding block    this is coding block with 4 space bar    this is also coding block with tab. now, coding block is end
